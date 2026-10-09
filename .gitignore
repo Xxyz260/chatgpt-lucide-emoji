@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+vendor/lucide.ttf
+vendor/lucide.woff2
+dist/lucide_emoji_colorized_v2.11.ttf
+dist/lucide_emoji_colorized_v2.11.woff2
