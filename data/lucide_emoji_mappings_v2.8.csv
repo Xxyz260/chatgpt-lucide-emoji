@@ -1,0 +1,524 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: lucide_emoji_mappings_v2.8.csv>index,codepoint,emoji,lucide_glyph,unicode_name,assigned_color_or_note
+0,U+00A9,©,copyright,copyright,
+1,U+203C,‼,alert-circle,double exclamation mark,#ef4444
+2,U+2049,⁉,alert-circle,exclamation question mark,#ef4444
+3,U+2139,ℹ,info,information,#3b82f6
+4,U+2194,↔,arrow-left-right,left-right arrow,#3b82f6
+5,U+2195,↕,arrow-up-down,up-down arrow,#3b82f6
+6,U+2196,↖,arrow-up-left,up-left arrow,#3b82f6
+7,U+2197,↗,arrow-up-right,up-right arrow,#3b82f6
+8,U+2198,↘,arrow-down-right,down-right arrow,#3b82f6
+9,U+2199,↙,arrow-down-left,down-left arrow,#3b82f6
+10,U+21A9,↩,corner-up-left,right arrow curving left,#3b82f6
+11,U+21AA,↪,corner-up-right,left arrow curving right,#3b82f6
+12,U+231A,⌚,watch,watch,#64748b
+13,U+231B,⌛,hourglass,hourglass done,#fbbf24
+14,U+2328,⌨,keyboard,keyboard,#64748b
+15,U+23CF,⏏,eject,eject button,#3b82f6
+16,U+23E9,⏩,fast-forward,fast-forward button,#3b82f6
+17,U+23EA,⏪,rewind,fast reverse button,#3b82f6
+18,U+23ED,⏭,skip-forward,next track button,#3b82f6
+19,U+23EE,⏮,skip-back,last track button,#3b82f6
+20,U+23F0,⏰,alarm-clock,alarm clock,#ef4444
+21,U+23F1,⏱,timer,stopwatch,#64748b
+22,U+23F2,⏲,timer,timer clock,#64748b
+23,U+23F3,⏳,hourglass,hourglass not done,#fbbf24
+24,U+23F8,⏸,pause,pause button,#3b82f6
+25,U+23F9,⏹,square,stop button,#64748b
+26,U+23FA,⏺,circle,record button,#ef4444
+27,U+25AA,▪,square,black small square,#64748b
+28,U+25AB,▫,square,white small square,#64748b
+29,U+25B6,▶,play,play button,#3b82f6
+30,U+25C0,◀,step-back,reverse button,#3b82f6
+31,U+25FB,◻,square,white medium square,#cbd5e1
+32,U+25FC,◼,square,black medium square,#475569
+33,U+25FD,◽,square,white medium-small square,#cbd5e1
+34,U+25FE,◾,square,black medium-small square,#475569
+35,U+2600,☀,sun,sun,#facc15
+36,U+2601,☁,cloud,cloud,#94a3b8
+37,U+2602,☂,umbrella,umbrella,#a855f7
+38,U+260E,☎,phone,telephone,#64748b
+39,U+2611,☑,check-square,check box with check,#22c55e
+40,U+2615,☕,coffee,hot beverage,#92400e
+41,U+2620,☠,skull,skull and crossbones,#cbd5e1
+42,U+2622,☢,radiation,radioactive,#eab308
+43,U+2623,☣,biohazard,biohazard,#eab308
+44,U+2639,☹,face-slightly-frowning,frowning face,#facc15
+45,U+263A,☺,face-slightly-smiling,smiling face,#facc15
+46,U+2640,♀,venus,female sign,#ec4899
+47,U+2642,♂,mars,male sign,#3b82f6
+48,U+265F,♟,chess-pawn,chess pawn,#64748b
+49,U+2660,♠,spade,spade suit,#64748b
+50,U+2663,♣,club,club suit,#64748b
+51,U+2665,♥,heart,heart suit,#ef4444
+52,U+2666,♦,diamond,diamond suit,#ef4444
+53,U+267B,♻,recycle,recycling symbol,#16a34a
+54,U+267E,♾,infinity,infinity,#3b82f6
+55,U+2692,⚒,hammer,hammer and pick,#64748b
+56,U+2693,⚓,anchor,anchor,#94a3b8
+57,U+2694,⚔,sword,crossed swords,#94a3b8
+58,U+2696,⚖,scale,balance scale,#94a3b8
+59,U+2699,⚙,settings,gear,#94a3b8
+60,U+269B,⚛,atom,atom symbol,#8b5cf6
+61,U+26A0,⚠,alert-triangle,warning,#f59e0b
+62,U+26A1,⚡,zap,high voltage,#facc15
+63,U+26A7,⚧,transgender,transgender symbol,#a855f7
+64,U+26AA,⚪,circle,white circle,#cbd5e1
+65,U+26AB,⚫,circle,black circle,#475569
+66,U+26C5,⛅,cloud-sun,sun behind cloud,#facc15
+67,U+26C8,⛈,cloud-lightning,cloud with lightning and rain,#facc15
+68,U+26CF,⛏,pickaxe,pick,#94a3b8
+69,U+26D1,⛑,hard-hat,rescue worker’s helmet,#eab308
+70,U+26D3,⛓,link,chains,#94a3b8
+71,U+26D4,⛔,ban,no entry,#ef4444
+72,U+26EA,⛪,church,church,#9ca3af
+73,U+26F0,⛰,mountain,mountain,#64748b
+74,U+26F1,⛱,umbrella,umbrella on ground,#a855f7
+75,U+26F4,⛴,ship,ferry,#2563eb
+76,U+26F5,⛵,sailboat,sailboat,#3b82f6
+77,U+26FA,⛺,tent,tent,#eab308
+78,U+26FD,⛽,fuel,fuel pump,#22c55e
+79,U+2702,✂,scissors,scissors,#94a3b8
+80,U+2705,✅,check-circle,check mark button,#22c55e
+81,U+2708,✈,plane,airplane,#94a3b8
+82,U+2709,✉,mail,envelope,#94a3b8
+83,U+270A,✊,hand-fist,raised fist,#facc15
+84,U+270B,✋,hand,raised hand,#facc15
+85,U+270F,✏,pencil,pencil,#eab308
+86,U+2714,✔,check,check mark,#22c55e
+87,U+2716,✖,x,multiply,#ef4444
+88,U+271D,✝,cross,latin cross,
+89,U+2728,✨,sparkles,sparkles,#facc15
+90,U+2733,✳,asterisk,eight-spoked asterisk,#22c55e
+91,U+2734,✴,star,eight-pointed star,#facc15
+92,U+2744,❄,snowflake,snowflake,#60a5fa
+93,U+2747,❇,sparkles,sparkle,#facc15
+94,U+274C,❌,x,cross mark,#ef4444
+95,U+274E,❎,x,cross mark button,#ef4444
+96,U+2753,❓,circle-help,red question mark,#dc2626
+97,U+2754,❔,circle-help,white question mark,#9ca3af
+98,U+2755,❕,alert-circle,white exclamation mark,#ef4444
+99,U+2757,❗,alert-circle,red exclamation mark,#ef4444
+100,U+2763,❣,heart,heart exclamation,#ef4444
+101,U+2764,❤,heart,red heart,#ef4444
+102,U+2795,➕,plus,plus,#22c55e
+103,U+2796,➖,minus,minus,#ef4444
+104,U+2797,➗,divide,divide,#2563eb
+105,U+27A1,➡,arrow-right,right arrow,#3b82f6
+106,U+2B05,⬅,arrow-left,left arrow,#3b82f6
+107,U+2B06,⬆,arrow-up,up arrow,#3b82f6
+108,U+2B07,⬇,arrow-down,down arrow,#3b82f6
+109,U+2B1B,⬛,square,black large square,#475569
+110,U+2B1C,⬜,square,white large square,#cbd5e1
+111,U+2B50,⭐,star,star,#facc15
+112,U+2B55,⭕,circle,hollow red circle,#ef4444
+113,U+1F17F,🅿,circle-parking,P button,#2563eb
+114,U+1F300,🌀,tornado,cyclone,#7c3aed
+115,U+1F304,🌄,sunrise,sunrise over mountains,#fb923c
+116,U+1F305,🌅,sunrise,sunrise,#fb923c
+117,U+1F307,🌇,sunset,sunset,#f97316
+118,U+1F308,🌈,rainbow,rainbow,#7c3aed
+119,U+1F30D,🌍,earth,globe showing Europe-Africa,#22c55e
+120,U+1F30E,🌎,earth,globe showing Americas,#22c55e
+121,U+1F30F,🌏,earth,globe showing Asia-Australia,#22c55e
+122,U+1F310,🌐,globe,globe with meridians,#3b82f6
+123,U+1F319,🌙,moon,crescent moon,#fbbf24
+124,U+1F31F,🌟,star,glowing star,#eab308
+125,U+1F320,🌠,star,shooting star,#eab308
+126,U+1F321,🌡,thermometer,thermometer,#ef4444
+127,U+1F324,🌤,cloud-sun,sun behind small cloud,#facc15
+128,U+1F325,🌥,cloud-sun,sun behind large cloud,#facc15
+129,U+1F327,🌧,cloud-rain,cloud with rain,#60a5fa
+130,U+1F328,🌨,cloud-snow,cloud with snow,#93c5fd
+131,U+1F329,🌩,cloud-lightning,cloud with lightning,#facc15
+132,U+1F32A,🌪,tornado,tornado,#93c5fd
+133,U+1F32B,🌫,cloud-fog,fog,#94a3b8
+134,U+1F32C,🌬,wind,wind face,#93c5fd
+135,U+1F331,🌱,sprout,seedling,#22c55e
+136,U+1F332,🌲,tree-pine,evergreen tree,#16a34a
+137,U+1F333,🌳,tree-deciduous,deciduous tree,#16a34a
+138,U+1F338,🌸,flower,cherry blossom,#f9a8d4
+139,U+1F33A,🌺,flower,hibiscus,#f97316
+140,U+1F33B,🌻,flower-2,sunflower,#eab308
+141,U+1F33C,🌼,flower,blossom,#facc15
+142,U+1F33F,🌿,leaf,herb,#16a34a
+143,U+1F343,🍃,leaf,leaf fluttering in wind,#22c55e
+144,U+1F347,🍇,grape,grapes,#8b5cf6
+145,U+1F34C,🍌,banana,banana,#facc15
+146,U+1F34E,🍎,apple,red apple,#ef4444
+147,U+1F34F,🍏,apple,green apple,#84cc16
+148,U+1F352,🍒,cherry,cherries,#ef4444
+149,U+1F354,🍔,hamburger,hamburger,#d97706
+150,U+1F355,🍕,pizza,pizza,#f59e0b
+151,U+1F356,🍖,beef,meat on bone,#a16207
+152,U+1F35C,🍜,soup,steaming bowl,#eab308
+153,U+1F366,🍦,ice-cream-cone,soft ice cream,#f3e8ff
+154,U+1F367,🍧,ice-cream-2,shaved ice,#f9a8d4
+155,U+1F368,🍨,ice-cream-2,ice cream,#f9a8d4
+156,U+1F36A,🍪,cookie,cookie,#c18443
+157,U+1F36C,🍬,candy,candy,#ec4899
+158,U+1F36D,🍭,candy,lollipop,#ef4444
+159,U+1F370,🍰,cake-slice,shortcake,#f59e0b
+160,U+1F374,🍴,fork-knife,fork and knife,#9ca3af
+161,U+1F377,🍷,wine,wine glass,#dc2626
+162,U+1F378,🍸,martini,cocktail glass,#fb7185
+163,U+1F37A,🍺,beer,beer mug,#f59e0b
+164,U+1F37D,🍽,fork-knife,fork and knife with plate,#94a3b8
+165,U+1F37E,🍾,bottle-wine,bottle with popping cork,#e5e7eb
+166,U+1F37F,🍿,popcorn,popcorn,#facc15
+167,U+1F380,🎀,ribbon,ribbon,#ec4899
+168,U+1F381,🎁,gift,wrapped gift,#ec4899
+169,U+1F382,🎂,cake,birthday cake,#f472b6
+170,U+1F384,🎄,tree-pine,Christmas tree,#16a34a
+171,U+1F388,🎈,balloon,balloon,#ef4444
+172,U+1F389,🎉,party-popper,party popper,#f97316
+173,U+1F38A,🎊,party-popper,confetti ball,#8b5cf6
+174,U+1F392,🎒,backpack,backpack,#2563eb
+175,U+1F393,🎓,graduation-cap,graduation cap,#64748b
+176,U+1F396,🎖,award,military medal,#f59e0b
+177,U+1F397,🎗,ribbon,reminder ribbon,#ec4899
+178,U+1F399,🎙,mic,studio microphone,#64748b
+179,U+1F39E,🎞,film,film frames,#64748b
+180,U+1F3A1,🎡,ferris-wheel,ferris wheel,#ec4899
+181,U+1F3A2,🎢,roller-coaster,roller coaster,#ef4444
+182,U+1F3A4,🎤,mic,microphone,#64748b
+183,U+1F3A7,🎧,headphones,headphone,#64748b
+184,U+1F3A8,🎨,palette,artist palette,#f97316
+185,U+1F3AB,🎫,ticket,ticket,#eab308
+186,U+1F3AC,🎬,clapperboard,clapper board,#64748b
+187,U+1F3AD,🎭,drama,performing arts,#8b5cf6
+188,U+1F3AE,🎮,gamepad-2,video game,#64748b
+189,U+1F3AF,🎯,target,bullseye,#ef4444
+190,U+1F3B2,🎲,dice-5,game die,#e5e7eb
+191,U+1F3B5,🎵,music,musical note,#3b82f6
+192,U+1F3B6,🎶,music-2,musical notes,#3b82f6
+193,U+1F3B8,🎸,guitar,guitar,#a16207
+194,U+1F3B9,🎹,piano,musical keyboard,#9ca3af
+195,U+1F3C5,🏅,medal,sports medal,#f59e0b
+196,U+1F3C6,🏆,trophy,trophy,#eab308
+197,U+1F3D0,🏐,volleyball,volleyball,#e2e8f0
+198,U+1F3D4,🏔,mountain-snow,snow-capped mountain,#94a3b8
+199,U+1F3D8,🏘,houses,houses,#b45309
+200,U+1F3D9,🏙,building-2,cityscape,#94a3b8
+201,U+1F3DB,🏛,landmark,classical building,#94a3b8
+202,U+1F3E0,🏠,home,house,#b45309
+203,U+1F3E1,🏡,home,house with garden,#b45309
+204,U+1F3E2,🏢,building,office building,#94a3b8
+205,U+1F3E5,🏥,hospital,hospital,#ef4444
+206,U+1F3E6,🏦,landmark,bank,#64748b
+207,U+1F3E8,🏨,hotel,hotel,#94a3b8
+208,U+1F3EB,🏫,school,school,#b45309
+209,U+1F3ED,🏭,factory,factory,#64748b
+210,U+1F3F0,🏰,castle,castle,#9ca3af
+211,U+1F3F3,🏳,flag,white flag,#cbd5e1
+212,U+1F3F4,🏴,flag,black flag,#475569
+213,U+1F3F7,🏷,tag,label,#eab308
+214,U+1F3FA,🏺,amphora,amphora,#b45309
+215,U+1F400,🐀,rat,rat,#64748b
+216,U+1F401,🐁,rat,mouse,#64748b
+217,U+1F407,🐇,rabbit,rabbit,#d1d5db
+218,U+1F408,🐈,cat,cat,#f59e0b
+219,U+1F40C,🐌,snail,snail,#a16207
+220,U+1F415,🐕,dog,dog,#b45309
+221,U+1F41A,🐚,shell,spiral shell,#f3c7ad
+222,U+1F41F,🐟,fish,fish,#60a5fa
+223,U+1F422,🐢,turtle,turtle,#16a34a
+224,U+1F426,🐦,bird,bird,#facc15
+225,U+1F431,🐱,cat,cat face,#f59e0b
+226,U+1F43C,🐼,panda,panda,#64748b
+227,U+1F43E,🐾,paw-print,paw prints,#b45309
+228,U+1F441,👁,eye,eye,#60a5fa
+229,U+1F442,👂,ear,ear,#facc15
+230,U+1F444,👄,mouth,mouth,#ef4444
+231,U+1F44A,👊,hand-fist,oncoming fist,#facc15
+232,U+1F44B,👋,hand,waving hand,#facc15
+233,U+1F44D,👍,thumbs-up,thumbs up,#facc15
+234,U+1F44E,👎,thumbs-down,thumbs down,#facc15
+235,U+1F451,👑,crown,crown,#f59e0b
+236,U+1F453,👓,glasses,glasses,#64748b
+237,U+1F455,👕,shirt,t-shirt,#2563eb
+238,U+1F45A,👚,shirt,woman’s clothes,#2563eb
+239,U+1F45C,👜,handbag,handbag,#7c2d12
+240,U+1F463,👣,footprints,footprints,#a16207
+241,U+1F464,👤,user,bust in silhouette,#facc15
+242,U+1F465,👥,users,busts in silhouette,#facc15
+243,U+1F476,👶,baby,baby,#facc15
+244,U+1F47B,👻,ghost,ghost,#e2e8f0
+245,U+1F480,💀,skull,skull,#cbd5e1
+246,U+1F489,💉,syringe,syringe,#64748b
+247,U+1F48A,💊,pill,pill,#ef4444
+248,U+1F48E,💎,gem,gem stone,#38bdf8
+249,U+1F493,💓,heart-pulse,beating heart,#fb7185
+250,U+1F494,💔,heart-crack,broken heart,#ef4444
+251,U+1F495,💕,heart,two hearts,#f472b6
+252,U+1F497,💗,heart,growing heart,#f43f5e
+253,U+1F499,💙,heart,blue heart,#2563eb
+254,U+1F49A,💚,heart,green heart,#22c55e
+255,U+1F49B,💛,heart,yellow heart,#facc15
+256,U+1F49C,💜,heart,purple heart,#8b5cf6
+257,U+1F49E,💞,heart,revolving hearts,#ec4899
+258,U+1F49F,💟,heart,heart decoration,#ec4899
+259,U+1F4A1,💡,lightbulb,light bulb,#facc15
+260,U+1F4A3,💣,bomb,bomb,#64748b
+261,U+1F4A6,💦,droplets,sweat droplets,#38bdf8
+262,U+1F4A7,💧,droplet,droplet,#38bdf8
+263,U+1F4A8,💨,wind,dashing away,#93c5fd
+264,U+1F4AA,💪,biceps-flexed,flexed biceps,#facc15
+265,U+1F4AB,💫,sparkles,dizzy,#facc15
+266,U+1F4AC,💬,message-circle,speech balloon,#93c5fd
+267,U+1F4B2,💲,badge-dollar-sign,heavy dollar sign,#22c55e
+268,U+1F4B3,💳,credit-card,credit card,#2563eb
+269,U+1F4B4,💴,banknote,yen banknote,#22c55e
+270,U+1F4B5,💵,banknote,dollar banknote,#22c55e
+271,U+1F4B6,💶,banknote,euro banknote,#22c55e
+272,U+1F4B7,💷,banknote,pound banknote,#22c55e
+273,U+1F4BB,💻,laptop,laptop,#94a3b8
+274,U+1F4BC,💼,briefcase-business,briefcase,#92400e
+275,U+1F4BE,💾,save,floppy disk,#94a3b8
+276,U+1F4BF,💿,disc,optical disk,#94a3b8
+277,U+1F4C0,📀,disc,dvd,#94a3b8
+278,U+1F4C1,📁,folder,file folder,#eab308
+279,U+1F4C2,📂,folder-open,open file folder,#eab308
+280,U+1F4C4,📄,file-text,page facing up,#93c5fd
+281,U+1F4C5,📅,calendar,calendar,#ef4444
+282,U+1F4C6,📆,calendar,tear-off calendar,#ef4444
+283,U+1F4C8,📈,chart-line,chart increasing,axes currentColor; rising line green
+284,U+1F4C9,📉,chart-line,chart decreasing,axes currentColor; falling line red (mirrored)
+285,U+1F4CA,📊,bar-chart-3,bar chart,"axes currentColor; bars left green, middle red, right blue"
+286,U+1F4CB,📋,clipboard,clipboard,#9ca3af
+287,U+1F4CC,📌,pin,pushpin,#ef4444
+288,U+1F4CD,📍,pin,round pushpin,#ef4444
+289,U+1F4CE,📎,paperclip,paperclip,#94a3b8
+290,U+1F4CF,📏,ruler,straight ruler,#eab308
+291,U+1F4D0,📐,ruler,triangular ruler,#eab308
+292,U+1F4D2,📒,notebook,ledger,#7c3aed
+293,U+1F4D3,📓,notebook,notebook,#4b5563
+294,U+1F4D4,📔,book,notebook with decorative cover,#f4c542
+295,U+1F4D5,📕,book,closed book,#ef4444
+296,U+1F4D6,📖,book-open,open book,#93c5fd
+297,U+1F4D7,📗,book,green book,#22c55e
+298,U+1F4D8,📘,book,blue book,#2563eb
+299,U+1F4D9,📙,book,orange book,#f97316
+300,U+1F4DC,📜,scroll,scroll,#d6b788
+301,U+1F4DD,📝,notebook-pen,memo,#3b82f6
+302,U+1F4DE,📞,phone,telephone receiver,#64748b
+303,U+1F4E2,📢,megaphone,loudspeaker,#f59e0b
+304,U+1F4E3,📣,megaphone,megaphone,#f59e0b
+305,U+1F4E6,📦,package,package,#b88a5c
+306,U+1F4E7,📧,mail,e-mail,#60a5fa
+307,U+1F4E8,📨,mail-open,incoming envelope,#93c5fd
+308,U+1F4EA,📪,mailbox,closed mailbox with lowered flag,#9ca3af
+309,U+1F4EB,📫,mailbox,closed mailbox with raised flag,#ef4444
+310,U+1F4EC,📬,mailbox,open mailbox with raised flag,#ef4444
+311,U+1F4ED,📭,mailbox,open mailbox with lowered flag,#9ca3af
+312,U+1F4EE,📮,mailbox,postbox,#2563eb
+313,U+1F4F0,📰,newspaper,newspaper,#94a3b8
+314,U+1F4F1,📱,smartphone,mobile phone,#64748b
+315,U+1F4F3,📳,vibrate,vibration mode,#3b82f6
+316,U+1F4F7,📷,camera,camera,#64748b
+317,U+1F4F8,📸,camera,camera with flash,#64748b
+318,U+1F4FA,📺,tv,television,#64748b
+319,U+1F4FB,📻,radio,radio,#94a3b8
+320,U+1F500,🔀,shuffle,shuffle tracks button,#3b82f6
+321,U+1F501,🔁,repeat,repeat button,#3b82f6
+322,U+1F502,🔂,repeat-1,repeat single button,#3b82f6
+323,U+1F503,🔃,refresh-cw,clockwise vertical arrows,#3b82f6
+324,U+1F504,🔄,refresh-cw,counterclockwise arrows button,#3b82f6
+325,U+1F507,🔇,volume-x,muted speaker,#94a3b8
+326,U+1F508,🔈,volume-1,speaker low volume,#64748b
+327,U+1F509,🔉,volume-2,speaker medium volume,#64748b
+328,U+1F50A,🔊,volume-2,speaker high volume,#64748b
+329,U+1F50B,🔋,battery,battery,#16a34a
+330,U+1F50C,🔌,plug,electric plug,#64748b
+331,U+1F50D,🔍,search,magnifying glass tilted left,#64748b
+332,U+1F50E,🔎,search,magnifying glass tilted right,#64748b
+333,U+1F511,🔑,key-round,key,#eab308
+334,U+1F512,🔒,lock,locked,#eab308
+335,U+1F513,🔓,lock-open,unlocked,#eab308
+336,U+1F514,🔔,bell,bell,#f59e0b
+337,U+1F515,🔕,bell-off,bell with slash,#eab308
+338,U+1F516,🔖,bookmark,bookmark,#ef4444
+339,U+1F517,🔗,link,link,#94a3b8
+340,U+1F518,🔘,circle-dot,radio button,#6b7280
+341,U+1F525,🔥,flame,fire,#f97316
+342,U+1F526,🔦,flashlight,flashlight,#64748b
+343,U+1F527,🔧,wrench,wrench,#94a3b8
+344,U+1F528,🔨,hammer,hammer,#94a3b8
+345,U+1F529,🔩,nut,nut and bolt,#64748b
+346,U+1F52C,🔬,microscope,microscope,#64748b
+347,U+1F52D,🔭,telescope,telescope,#94a3b8
+348,U+1F532,🔲,square,black square button,#64748b
+349,U+1F533,🔳,square,white square button,#94a3b8
+350,U+1F534,🔴,circle,red circle,#ef4444
+351,U+1F535,🔵,circle,blue circle,#2563eb
+352,U+1F536,🔶,diamond,large orange diamond,#f97316
+353,U+1F537,🔷,diamond,large blue diamond,#2563eb
+354,U+1F538,🔸,diamond,small orange diamond,#f97316
+355,U+1F539,🔹,diamond,small blue diamond,#2563eb
+356,U+1F53A,🔺,triangle,red triangle pointed up,#ef4444
+357,U+1F53B,🔻,triangle,red triangle pointed down,#ef4444
+358,U+1F54C,🕌,mosque,mosque,#94a3b8
+359,U+1F550,🕐,clock-1,one o’clock,#64748b
+360,U+1F551,🕑,clock-2,two o’clock,#64748b
+361,U+1F552,🕒,clock-3,three o’clock,#64748b
+362,U+1F553,🕓,clock-4,four o’clock,#64748b
+363,U+1F554,🕔,clock-5,five o’clock,#64748b
+364,U+1F555,🕕,clock-6,six o’clock,#64748b
+365,U+1F556,🕖,clock-7,seven o’clock,#64748b
+366,U+1F557,🕗,clock-8,eight o’clock,#64748b
+367,U+1F558,🕘,clock-9,nine o’clock,#64748b
+368,U+1F559,🕙,clock-10,ten o’clock,#64748b
+369,U+1F55A,🕚,clock-11,eleven o’clock,#64748b
+370,U+1F55B,🕛,clock-12,twelve o’clock,#64748b
+371,U+1F576,🕶,glasses,sunglasses,#64748b
+372,U+1F579,🕹,joystick,joystick,#94a3b8
+373,U+1F587,🖇,paperclip,linked paperclips,#94a3b8
+374,U+1F58C,🖌,paintbrush,paintbrush,#8b5cf6
+375,U+1F590,🖐,hand,hand with fingers splayed,#facc15
+376,U+1F5A4,🖤,heart,black heart,#475569
+377,U+1F5A5,🖥,monitor,desktop computer,#64748b
+378,U+1F5A8,🖨,printer,printer,#64748b
+379,U+1F5B1,🖱,mouse,computer mouse,#64748b
+380,U+1F5BC,🖼,image,framed picture,#3b82f6
+381,U+1F5C3,🗃,archive,card file box,#94a3b8
+382,U+1F5C4,🗄,archive,file cabinet,#94a3b8
+383,U+1F5D1,🗑,trash-2,wastebasket,#64748b
+384,U+1F5D2,🗒,notebook-pen,spiral notepad,#3b82f6
+385,U+1F5D3,🗓,calendar,spiral calendar,#ef4444
+386,U+1F5DD,🗝,key-round,old key,#eab308
+387,U+1F5E1,🗡,sword,dagger,#94a3b8
+388,U+1F5E3,🗣,speech,speaking head,#facc15
+389,U+1F5E8,🗨,message-circle,left speech bubble,#93c5fd
+390,U+1F5FA,🗺,map,world map,#22c55e
+391,U+1F600,😀,face-grinning,grinning face,#facc15
+392,U+1F603,😃,face-grinning,grinning face with big eyes,#facc15
+393,U+1F604,😄,face-grinning,grinning face with smiling eyes,#facc15
+394,U+1F610,😐,face-neutral,neutral face,#facc15
+395,U+1F620,😠,angry,angry face,#f59e0b
+396,U+1F621,😡,angry,enraged face,#ef4444
+397,U+1F641,🙁,face-slightly-frowning,slightly frowning face,#facc15
+398,U+1F642,🙂,face-slightly-smiling,slightly smiling face,#facc15
+399,U+1F680,🚀,rocket,rocket,#ef4444
+400,U+1F681,🚁,helicopter,helicopter,#64748b
+401,U+1F682,🚂,train,locomotive,#64748b
+402,U+1F684,🚄,train,high-speed train,#64748b
+403,U+1F685,🚅,train,bullet train,#64748b
+404,U+1F686,🚆,train,train,#64748b
+405,U+1F687,🚇,train-front,metro,#64748b
+406,U+1F688,🚈,train-front,light rail,#64748b
+407,U+1F68A,🚊,train,tram,#64748b
+408,U+1F68B,🚋,train,tram car,#64748b
+409,U+1F68C,🚌,bus,bus,#eab308
+410,U+1F691,🚑,ambulance,ambulance,#ef4444
+411,U+1F693,🚓,car-front,police car,#2563eb
+412,U+1F694,🚔,car-front,oncoming police car,#2563eb
+413,U+1F695,🚕,car-taxi-front,taxi,#facc15
+414,U+1F696,🚖,car-taxi-front,oncoming taxi,#facc15
+415,U+1F697,🚗,car,automobile,#ef4444
+416,U+1F699,🚙,car,sport utility vehicle,#64748b
+417,U+1F69A,🚚,truck,delivery truck,#f97316
+418,U+1F69B,🚛,truck,articulated lorry,#f97316
+419,U+1F69C,🚜,tractor,tractor,#16a34a
+420,U+1F69E,🚞,train,mountain railway,#64748b
+421,U+1F69F,🚟,cable-car,suspension railway,#94a3b8
+422,U+1F6A0,🚠,cable-car,mountain cableway,#94a3b8
+423,U+1F6A1,🚡,cable-car,aerial tramway,#94a3b8
+424,U+1F6A2,🚢,ship,ship,#2563eb
+425,U+1F6A9,🚩,flag,triangular flag,#ef4444
+426,U+1F6AA,🚪,door-open,door,#92400e
+427,U+1F6AB,🚫,ban,prohibited,#ef4444
+428,U+1F6AC,🚬,cigarette,cigarette,#f59e0b
+429,U+1F6AD,🚭,cigarette-off,no smoking,#dc2626
+430,U+1F6B2,🚲,bike,bicycle,#2563eb
+431,U+1F6BC,🚼,baby,baby symbol,#facc15
+432,U+1F6BD,🚽,toilet,toilet,#e2e8f0
+433,U+1F6BF,🚿,shower-head,shower,#64748b
+434,U+1F6C1,🛁,bath,bathtub,#93c5fd
+435,U+1F6C4,🛄,baggage-claim,baggage claim,#2563eb
+436,U+1F6CD,🛍,shopping-bag,shopping bags,#ec4899
+437,U+1F6CF,🛏,bed,bed,#93c5fd
+438,U+1F6D1,🛑,octagon,stop sign,#ef4444
+439,U+1F6D2,🛒,shopping-cart,shopping cart,#64748b
+440,U+1F6DC,🛜,wifi,wireless,#3b82f6
+441,U+1F6DF,🛟,life-buoy,ring buoy,#ef4444
+442,U+1F6E0,🛠,wrench,hammer and wrench,#94a3b8
+443,U+1F6E1,🛡,shield,shield,#94a3b8
+444,U+1F6E9,🛩,plane,small airplane,#94a3b8
+445,U+1F6F0,🛰,satellite,satellite,#94a3b8
+446,U+1F6F3,🛳,ship,passenger ship,#2563eb
+447,U+1F6F6,🛶,sailboat,canoe,#ef4444
+448,U+1F6FB,🛻,truck,pickup truck,#f97316
+449,U+1F7E0,🟠,circle,orange circle,#f97316
+450,U+1F7E1,🟡,circle,yellow circle,#facc15
+451,U+1F7E2,🟢,circle,green circle,#22c55e
+452,U+1F7E3,🟣,circle,purple circle,#8b5cf6
+453,U+1F7E4,🟤,circle,brown circle,#9a6135
+454,U+1F7E5,🟥,square,red square,#ef4444
+455,U+1F7E6,🟦,square,blue square,#2563eb
+456,U+1F7E7,🟧,square,orange square,#f97316
+457,U+1F7E8,🟨,square,yellow square,#facc15
+458,U+1F7E9,🟩,square,green square,#22c55e
+459,U+1F7EA,🟪,square,purple square,#8b5cf6
+460,U+1F7EB,🟫,square,brown square,#9a6135
+461,U+1F7F0,🟰,equal,heavy equals sign,#f9fafb
+462,U+1F90D,🤍,heart,white heart,#e2e8f0
+463,U+1F90E,🤎,heart,brown heart,#8b5a2b
+464,U+1F916,🤖,bot,robot,#94a3b8
+465,U+1F918,🤘,hand-metal,sign of the horns,#facc15
+466,U+1F91D,🤝,handshake,handshake,#facc15
+467,U+1F941,🥁,drum,drum,#a16207
+468,U+1F947,🥇,medal,1st place medal,#eab308
+469,U+1F948,🥈,medal,2nd place medal,#a1a1aa
+470,U+1F949,🥉,medal,3rd place medal,#b45309
+471,U+1F950,🥐,croissant,croissant,#b45309
+472,U+1F955,🥕,carrot,carrot,#f97316
+473,U+1F957,🥗,salad,green salad,#16a34a
+474,U+1F958,🥘,cooking-pot,shallow pan of food,#94a3b8
+475,U+1F95A,🥚,egg,egg,#fef3c7
+476,U+1F95B,🥛,milk,glass of milk,#e5e7eb
+477,U+1F963,🥣,soup,bowl with spoon,#eab308
+478,U+1F966,🥦,broccoli,broccoli,#22c55e
+479,U+1F969,🥩,beef,cut of meat,#a16207
+480,U+1F96A,🥪,sandwich,sandwich,#eab308
+481,U+1F96C,🥬,leafy-green,leafy green,#22c55e
+482,U+1F990,🦐,shrimp,shrimp,#fb923c
+483,U+1F9B4,🦴,bone,bone,#f3e8db
+484,U+1F9BB,🦻,ear,ear with hearing aid,#facc15
+485,U+1F9C1,🧁,cake,cupcake,#f9a8d4
+486,U+1F9CD,🧍,person-standing,person standing,#facc15
+487,U+1F9E0,🧠,brain,brain,#f9a8d4
+488,U+1F9E1,🧡,heart,orange heart,#f97316
+489,U+1F9E9,🧩,puzzle,puzzle piece,#a855f7
+490,U+1F9EA,🧪,test-tube,test tube,#22c55e
+491,U+1F9EC,🧬,dna,dna,#8b5cf6
+492,U+1F9ED,🧭,compass,compass,#94a3b8
+493,U+1F9EF,🧯,fire-extinguisher,fire extinguisher,#a855f7
+494,U+1F9F0,🧰,toolbox,toolbox,#ef4444
+495,U+1F9F1,🧱,brick-wall,brick,#b45309
+496,U+1F9F2,🧲,magnet,magnet,#ef4444
+497,U+1F9F3,🧳,luggage,luggage,#964b33
+498,U+1F9F9,🧹,broom,broom,#a16207
+499,U+1F9FE,🧾,receipt,receipt,#e2e8f0
+500,U+1FA75,🩵,heart,light blue heart,#7dd3fc
+501,U+1FA76,🩶,heart,grey heart,#94a3b8
+502,U+1FA77,🩷,heart,pink heart,#f9a8d4
+503,U+1FA78,🩸,droplet,drop of blood,#38bdf8
+504,U+1FA79,🩹,bandage,adhesive bandage,#e7bde6
+505,U+1FA7A,🩺,stethoscope,stethoscope,#64748b
+506,U+1FA84,🪄,wand,magic wand,#8b5cf6
+507,U+1FA8F,🪏,shovel,shovel,#64748b
+508,U+1FA93,🪓,axe,axe,#a16207
+509,U+1FA96,🪖,hard-hat,military helmet,#eab308
+510,U+1FA98,🪘,drum,long drum,#a16207
+511,U+1FAA5,🪥,toothbrush,toothbrush,#3b82f6
+512,U+1FAAB,🪫,battery-low,low battery,#ef4444
+513,U+1FAB1,🪱,worm,worm,#a16207
+514,U+1FAB2,🪲,bug,beetle,#84cc16
+515,U+1FAB4,🪴,plant-pot,potted plant,#22c55e
+516,U+1FAB6,🪶,feather,feather,#94a3b8
+517,U+1FAD7,🫗,droplets,pouring liquid,#38bdf8
+518,U+1FAD8,🫘,bean,beans,#65a30d
+519,U+1FAE7,🫧,bubbles,bubbles,#7dd3fc
+520,U+1FAF4,🫴,hand-platter,palm up hand,#facc15
+521,U+1FAF6,🫶,hand-heart,heart hands,#facc15
