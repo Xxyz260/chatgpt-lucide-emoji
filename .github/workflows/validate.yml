@@ -1,0 +1,30 @@
+name: Validate
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  static:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - run: python scripts/materialize_binary_assets.py --extract-output
+      - name: Validate metadata and extracted WOFF2
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from fontTools.ttLib import TTFont
+          p = Path("dist/lucide_emoji_colorized_v2.11.woff2")
+          f = TTFont(p)
+          assert "COLR" in f and "CPAL" in f
+          script = Path("userscript/chatgpt_lucide_emoji_font_v2.11.user.js").read_text()
+          assert "// @version      2.11" in script
+          assert "font-variant-emoji" not in script
+          print("static validation passed")
+          PY
